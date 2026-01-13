@@ -31,13 +31,13 @@ Building production-grade AI applications and cloud infrastructure with a focus 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **KREN** | Business Operations Management Agent - Autonomous AI agent for enterprise workflows | Python, AWS Bedrock, Claude Opus |
 | **AgentCore Blueprint** | Production-ready AI agent template with full AWS integration | Python, AWS Strands SDK, Bedrock Nova Premier, ECS Fargate, Cognito, Terraform |
+| **Context Engine (POC Template)** | Local-first context logging, retrieval, and visualization pipeline | Python, Streamlit, LocalStack, DynamoDB, Athena |
+| **KREN** | Business Operations Management Agent - Autonomous AI agent for enterprise workflows | Python, AWS Bedrock, Claude Opus |
 | **MSP Support Assistant** | Serverless AI-powered support ticket system for managed service providers | Python, AWS Bedrock AgentCore, Lambda, DynamoDB |
 | **MermaidConfluenceForge** | Enterprise-grade Mermaid diagram generator using Claude 3 Haiku | Python, AWS Bedrock, Claude 3 Haiku |
 | **SOW/PO Manager** | Intelligent document management with AI-powered analysis | Python, Lambda, DynamoDB, Google Gemini AI |
 | **Semantic Search** | Cost-controlled semantic search system with multi-format document support | Python, Embeddings, Vector Search |
-| **Context Engine (POC Template)** | Local-first context logging, retrieval, and visualization pipeline | Python, Streamlit, LocalStack, DynamoDB, Athena |
 | **ACE Report Hub** | Automated AWS Partner Central reporting with AI-powered summaries | Python, Lambda, AI Summarization |
 
 ### Machine Learning & SageMaker

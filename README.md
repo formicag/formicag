@@ -87,7 +87,6 @@ Building production-grade AI applications and cloud infrastructure with a focus 
 | **Showcase** | Innovation dashboard with modern UI | React, Tailwind CSS, JavaScript |
 | **AWS Serverless .NET API** | Serverless API backend with Blazor frontend | .NET 6, Blazor Server, Lambda, API Gateway |
 | **Cognito Auth Apps** | Authentication implementations with AWS Cognito | C#, .NET, Cognito, Cookies |
-| **Azure Calculator** | Serverless calculator using Azure Functions | C#, Azure Functions, ARM Templates |
 | **Azure DevOps Pipelines** | CI/CD pipeline templates for .NET applications | YAML, Azure DevOps, ARM |
 
 ---

@@ -37,6 +37,7 @@ Building production-grade AI applications and cloud infrastructure with a focus 
 | **MermaidConfluenceForge** | Enterprise-grade Mermaid diagram generator using Claude 3 Haiku | Python, AWS Bedrock, Claude 3 Haiku |
 | **SOW/PO Manager** | Intelligent document management with AI-powered analysis | Python, Lambda, DynamoDB, Google Gemini AI |
 | **Semantic Search** | Cost-controlled semantic search system with multi-format document support | Python, Embeddings, Vector Search |
+| **Context Engine (POC Template)** | Local-first context logging, retrieval, and visualization pipeline | Python, Streamlit, LocalStack, DynamoDB, Athena |
 | **ACE Report Hub** | Automated AWS Partner Central reporting with AI-powered summaries | Python, Lambda, AI Summarization |
 
 ### Machine Learning & SageMaker

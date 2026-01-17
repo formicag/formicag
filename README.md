@@ -40,6 +40,12 @@ Building production-grade AI applications and cloud infrastructure with a focus 
 | **Semantic Search** | Cost-controlled semantic search system with multi-format document support | Python, Embeddings, Vector Search |
 | **ACE Report Hub** | Automated AWS Partner Central reporting with AI-powered summaries | Python, Lambda, AI Summarization |
 
+### Local AI Development
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**Ollama OpenWebUI PoC**](https://github.com/formicag/ollama-openwebui-poc) | Minimal production-ready setup for Open WebUI + Ollama on macOS | Docker, Ollama, Open WebUI, Make |
+
 ### Machine Learning & SageMaker
 
 | Project | Description | Tech Stack |

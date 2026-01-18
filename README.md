@@ -45,6 +45,7 @@ Building production-grade AI applications and cloud infrastructure with a focus 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**Ollama OpenWebUI PoC**](https://github.com/formicag/ollama-openwebui-poc) | Minimal production-ready setup for Open WebUI + Ollama on macOS | Docker, Ollama, Open WebUI, Make |
+| [**OpenAI Agentic Chat Scaffold**](https://github.com/formicag/openai-agent-scaffold-ts) | Production-ready monorepo for agentic chat with streaming UI, MCP memory, and Google OAuth | TypeScript, Next.js, Express, OpenAI Agents SDK, SQLite, Docker |
 
 ### Machine Learning & SageMaker
 
